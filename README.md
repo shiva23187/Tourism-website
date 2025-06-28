@@ -1,24 +1,26 @@
-# 🗺️ Tourism Website
+# 🌍 WANDERLUST – Explore the World in One Click!
 
-A **dynamic tourism web application** built with **Node.js**, **Express**, **MongoDB**, **HTML**, **CSS**, and **JavaScript**. This app allows users to explore travel listings, view detailed destination pages, and manage tourism data from a structured backend.
+Wanderlust is a travel listings website built using the **MEEN stack** (MongoDB, Express, EJS, Node.js).  
+This platform allows users to post, explore, and manage travel accommodations across the globe.
+
+
+
+## 🛠 Tech Stack
+
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| HTML, CSS, Bootstrap | Node.js, Express.js | MongoDB, Mongoose | Cloudinary, Passport.js, Joi, EJS |
 
 ---
 
-## 🚀 Technologies Used
+## 🔑 Features
 
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB (via Mongoose)
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Templating**: EJS
-- **Others**: Bootstrap 5 (for styling), Method-Override
+- 🔐 User Authentication (Login/Signup)
+- 🌍 Add/View/Edit/Delete Travel Listings
+- 📸 Cloudinary Image Upload
+- 💬 Leave and View Reviews
+- 📱 Mobile Responsive Design
+- 🧰 Secure Form Validation with Joi
+- 📌 Route Protection and Flash Messages
 
 ---
-
-## ✨ Features
-
-- 🏞 View all tourism listings
-- 📋 Add new destinations (form-based)
-- ✏️ Edit and update listings
-- 🗑 Delete listings with confirmation
-- 📍 Location, country, price, image for each place
-- 📄 Structured MVC folder setup
